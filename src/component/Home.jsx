@@ -6,7 +6,7 @@ const Home = () => {
         Employee menu
         </h1>
         <button>
-            Add New Employee Data
+            Add New Employee Dataaaaa
         </button>
         </div>
   )
